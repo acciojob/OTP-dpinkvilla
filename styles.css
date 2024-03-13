@@ -1,1 +1,33 @@
 /*  your css code here. If applicable */
+body{
+	border:1px solid red;
+	margin:40px;
+	padding:10px;
+};
+
+#imput{
+	display:flex;
+	
+}
+.code{
+	border:;
+	width:85px;
+	height:90px;
+	font-size:55px;
+	text-align:center;
+	align-items:center;
+	/* cursor: not-allowed; */
+    /* pointer-events: none; */
+}
+/* .code:focus {
+    border-bottom: 3px solid ;
+    outline: none;
+}
+  */
+.code:nth-child(1) {
+    /* cursor: pointer; */
+    /* pointer-events: all; */
+}
+
+
+
